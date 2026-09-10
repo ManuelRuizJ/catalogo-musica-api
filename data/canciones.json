@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "titulo": "Bohemian Rapsody",
+        "artista": "Queen",
+        "album": "A Night at the Opera",
+        "anio": 1975,
+        "genero": "Rock",
+        "duracion": "5:55"
+    },
+    {
+        "id": 2,
+        "titulo": "Stairway to Heaven",
+        "artista": "Led Zeppelin",
+        "album": "Led Zeppelin IV",
+        "anio": 1971,
+        "genero": "Rock",
+        "duracion": "8:02"
+    },
+    {
+        "id": 3,
+        "titulo": "Imagine",
+        "artista": "John Lennon",
+        "album": "Imagine",
+        "anio": 1971,
+        "genero": "Pop",
+        "duracion": "3:03"
+    },
+    {
+        "id": 4,
+        "titulo": "Smells Like Teen Spirit",
+        "artista": "Nirvana",
+        "album": "Nevermind",
+        "anio": 1991,
+        "genero": "Grunge",
+        "duracion": "5:01"
+    }
+]
